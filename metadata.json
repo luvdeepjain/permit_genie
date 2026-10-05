@@ -1,0 +1,6 @@
+{
+  "name": "Permit Genie",
+  "description": "Single-window clearance and real-time multi-agency permit approval platform for entrepreneurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
